@@ -1,4 +1,4 @@
-export default{
+export const lightTheme = {
   space: [
     0,
     4,
